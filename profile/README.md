@@ -1,6 +1,5 @@
-**Peeriot. peer-to-peer meets IoT**
+**Peeriot: peer-to-peer meets IoT.**
 
-The future of AI, IoT and Connectivity.
-We are p2p experts and the enabler for device and software manufacturers.
+We enable secure, self-organized devices & networks. 
 
-We enable the worlds devices a) to connect directly and b) to understand each other autonomously.
+We offer a low-code software suite to simplify Iot data exchange by 10x.
