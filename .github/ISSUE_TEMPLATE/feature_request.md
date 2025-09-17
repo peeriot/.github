@@ -24,8 +24,3 @@ Add suitable implementation details for the feature here (if needed).
 ## Tasks
 
 - [ ] Add suitable tasks for the feature here
-
-
-## Estimation
-
-x days|weeks|months
